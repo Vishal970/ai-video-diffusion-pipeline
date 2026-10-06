@@ -1,0 +1,16 @@
+*.safetensors
+*.ckpt
+*.pt
+*.gguf
+*.bin
+/workspace/ComfyUI/output/
+/workspace/ComfyUI/input/
+temp_silent_movie.mp4
+clip_list.txt
+*.mp4
+*.mkv
+*.png
+*.jpg
+.env
+.vast_api_key
+venv/
